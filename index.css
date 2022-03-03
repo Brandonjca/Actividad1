@@ -7,7 +7,7 @@
     border-radius: 15px;
     float: right;
     margin-top: 30px;
-    margin-right: 500px;
+    margin-right: 550px;
     color: white;
 }
 #titulo:hover{
@@ -33,7 +33,7 @@
     margin-top: -0px;
     margin-right: 200px;
     font-size: 20px;
-    width:600px;
+    width:650px;
     color: white;
   
 }
@@ -95,7 +95,7 @@
 }
 #fondo{
     background-color: black;
-    height: 700px;
-    width: 1255px;
-    margin-right: 100px;
+    height: 740px;
+    width: 1441px;
+    margin-left: -9px;
 }
