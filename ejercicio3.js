@@ -16,7 +16,7 @@ var suma;
 		}
 	}
 	if (x==0) {
-		document.write("El primedio de las notas es:",0,'<BR/>');
+		document.write("El primedio de las notas es: ",0,'<BR/>');
 	} else {
-		document.write("El promedio de las notas es:",prom,'<BR/>');
+		document.write("El promedio de las notas es: ",prom,'<BR/>');
 	}
