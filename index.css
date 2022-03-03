@@ -1,5 +1,5 @@
 #titulo{
-    background-color: #DCBAF0;
+    background-color: #D3DEDC;
     text-align: center;
     padding: 10px;
     font-family: Lucida Calligraphy;
@@ -14,7 +14,7 @@
   transition: 2s;
 }
 #in{
-    background-color:#DCBAF0;
+    background-color:#92A9BD;
     color: black;
     font-family: MS PGothic;
     padding: 15px;
@@ -35,4 +35,19 @@
 #re:hover{
     transform: translateX(20px);
     transition: transform 0.3s ease-out;
+}
+#uno{
+    margin-top: -0px;
+    float: right;
+    background-color: #dec4ee;
+    padding: 10px;
+    border-radius: 15px;
+}
+#dos{
+    float: right;
+    margin-top: 20px;
+    background-color: #dec4ee;
+    margin-right: 900px;
+    border-radius: 20px;
+    padding: 10px;
 }
