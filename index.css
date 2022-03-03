@@ -10,6 +10,29 @@
     margin-right: 500px;
 }
 #titulo:hover{
+    -webkit-transform:scale(1.3);transform:scale(1.3);
+  transition: 2s;
+}
+#in{
+    background-color:#DCBAF0;
+    color: black;
+    font-family: MS PGothic;
+    padding: 15px;
+    border-radius: 15px;
+    float: right;
+    margin-top: 100px;
+}
+#in:hover{
+    -webkit-transform:scale(1.3);transform:scale(1.3);
+  transition: 4s;
+}
+#re{
+    font-family: Lucida Calligraphy;
+    float: right;
+    margin-top: -0px;
+    margin-right: 900px;
+}
+#re:hover{
     transform: translateX(20px);
     transition: transform 0.3s ease-out;
 }
