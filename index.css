@@ -1,3 +1,15 @@
 #titulo{
-    background-color: aqua;
+    background-color: #DCBAF0;
+    text-align: center;
+    padding: 10px;
+    font-family: Lucida Calligraphy;
+    font-size: 20px;
+    border-radius: 15px;
+    float: right;
+    margin-top: 30px;
+    margin-right: 500px;
+}
+#titulo:hover{
+    transform: translateX(20px);
+    transition: transform 0.3s ease-out;
 }
