@@ -4,7 +4,7 @@ var millar = new Number();
 	var unidades = new Number();
 	var n = new Number();
 	document.write("__________________________________________",'<BR/>');
-	document.write("Ingresa un n�mero",'<BR/>');
+	document.write("Ingresa un número",'<BR/>');
 	n = Number(prompt());
 	millar = Math.trunc(n/1000)%10;
 	centena = Math.trunc(n/100)%10;
